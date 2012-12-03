@@ -14,7 +14,7 @@ public class HibernateUtils
    {
       try {
          // Create the SessionFactory from hibernate.cfg.xml
-         return new AnnotationConfiguration ().configure ("monitorsonde.cfg.xml").buildSessionFactory ();
+         return new AnnotationConfiguration ().configure ("rdfdatabase.cfg.xml").buildSessionFactory ();
       }
       catch (Throwable ex) {
          // Make sure you log the exception, as it might be swallowed

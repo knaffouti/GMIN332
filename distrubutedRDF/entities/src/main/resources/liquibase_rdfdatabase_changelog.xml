@@ -20,4 +20,55 @@
 	</changeSet>
 
 
+
+
+	<changeSet id="2" author="rlaouadi">
+		<createTable tableName="country">
+			<column name="geonameId" type="INTEGER UNSIGNED">
+				<constraints nullable="false" primaryKey="true" />
+			</column>
+
+			<column name="countryCode" type="varchar(32)">
+			</column>
+			<column name="countryName" type="varchar(256)">
+			</column>
+			<column name="isoNumeric" type="varchar(32)">
+			</column>
+			<column name="isoAlpha3" type="varchar(32)">
+			</column>
+			<column name="fipsCode" type="varchar(32)">
+			</column>
+
+
+			<column name="continent" type="varchar(32)">
+			</column>
+			<column name="continentName" type="varchar(256)">
+			</column>
+			<column name="capital" type="varchar(256)">
+			</column>
+			<column name="areaInSqKm" type="varchar(256)">
+			</column>
+			<column name="population" type="INTEGER UNSIGNED">
+			</column>
+			<column name="currencyCode" type="varchar(32)">
+			</column>
+			<column name="languages" type="varchar(128)">
+			</column>
+
+			<column name="west" type="DOUBLE">
+			</column>
+			<column name="north" type="DOUBLE">
+			</column>
+			<column name="east" type="DOUBLE">
+			</column>
+			<column name="south" type="DOUBLE">
+			</column>
+
+		</createTable>
+		<modifySql dbms="mysql">
+			<append value=" ENGINE InnoDB CHARACTER SET utf8" />
+		</modifySql>
+	</changeSet>
+
+
 </databaseChangeLog>
