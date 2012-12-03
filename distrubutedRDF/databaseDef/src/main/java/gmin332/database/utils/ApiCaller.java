@@ -1,4 +1,4 @@
-package gmin332.entities.utils;
+package gmin332.database.utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

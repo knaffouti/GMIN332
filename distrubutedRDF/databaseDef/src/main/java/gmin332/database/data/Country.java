@@ -1,4 +1,4 @@
-package gmin332.entities.data;
+package gmin332.database.data;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

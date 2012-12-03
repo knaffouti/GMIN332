@@ -1,5 +1,5 @@
 
-package gmin332.entities.utils;
+package gmin332.database.utils;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

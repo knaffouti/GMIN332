@@ -71,4 +71,31 @@
 	</changeSet>
 
 
+	<changeSet id="3" author="rlaouadi">
+		<createTable tableName="feature">
+			<column name="geoNameId" type="INTEGER UNSIGNED">
+				<constraints nullable="false" primaryKey="true" />
+			</column>
+
+			<column name="name" type="varchar(256)">
+				<constraints nullable="false" />
+			</column>
+
+			<column name="countryCode" type="varchar(32)">
+			</column>
+
+			<column name="latitude" type="DOUBLE">
+			</column>
+			<column name="longitude" type="DOUBLE">
+			</column>
+
+
+		</createTable>
+		<modifySql dbms="mysql">
+			<append value=" ENGINE InnoDB CHARACTER SET utf8" />
+		</modifySql>
+	</changeSet>
+
+
+
 </databaseChangeLog>

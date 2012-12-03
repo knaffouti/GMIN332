@@ -1,8 +1,8 @@
-package gmin332.entities.main;
+package gmin332.database.main;
 
-import gmin332.entities.data.Country;
-import gmin332.entities.utils.ApiCaller;
-import gmin332.entities.utils.HibernateUtils;
+import gmin332.database.data.Country;
+import gmin332.database.utils.ApiCaller;
+import gmin332.database.utils.HibernateUtils;
 
 import java.util.ArrayList;
 import java.util.List;
