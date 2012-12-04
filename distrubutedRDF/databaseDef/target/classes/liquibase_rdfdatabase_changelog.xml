@@ -64,6 +64,7 @@
 			<column name="south" type="DOUBLE">
 			</column>
 
+
 		</createTable>
 		<modifySql dbms="mysql">
 			<append value=" ENGINE InnoDB CHARACTER SET utf8" />
@@ -90,12 +91,21 @@
 			</column>
 
 
+			<column name="codePostal" type="varchar(10)">
+			</column>
+
 		</createTable>
 		<modifySql dbms="mysql">
 			<append value=" ENGINE InnoDB CHARACTER SET utf8" />
 		</modifySql>
 	</changeSet>
 
+	<changeSet id="4" author="rlaouadi">
+		<addForeignKeyConstraint constraintName="codeforgn"
+			referencedTableName="feature" baseColumnNames="countryCode"
+			baseTableName="country" referencedColumnNames="countryCode" />
+			
+		
+	</changeSet>
 
-
-</databaseChangeLog>
+	

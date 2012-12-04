@@ -1,7 +1,9 @@
 package gmin332.database.main;
 
-import gmin332.database.data.Country;
+import gmin332.database.data.Feature;
 import gmin332.database.utils.HibernateUtils;
+
+import java.util.List;
 
 import org.hibernate.Session;
 
@@ -10,23 +12,20 @@ public class test {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 		System.out.println("rabah");
 		Session f = HibernateUtils.getSessionFactory().openSession();
-		f.beginTransaction();
-
 		
-		Country s = new Country();
-		s.setGeonameId(1);
-		s.setContinentName("Algeria");
-		s.setIsoAlpha3("DZ");
+		List<Feature> s = Feature.findByLike(f, "bouira");
 		
-		
-		f.save(s);
-		
-		f.getTransaction().commit();
 		f.close();
+		
+		for (Feature feature : s) {
+			System.out.println(feature.getName());	
+		}//*/
+		
+		
 	}
 
 }

@@ -12,8 +12,9 @@
 		<!-- dialect for MySQL -->
 		<property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
 
-		<mapping class="gmin332.entities.data.Test" />
-		<mapping class="gmin332.entities.data.Country" />
+		<mapping class="gmin332.database.data.Test" />
+		<mapping class="gmin332.database.data.Country" />
+		<mapping class="gmin332.database.data.Feature" />
 		
 		
 		
