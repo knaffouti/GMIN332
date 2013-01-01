@@ -3,15 +3,20 @@
 	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
 
 	<changeSet id="1" author="rlaouadi">
-		<createTable tableName="test">
-			<column name="id" type="INTEGER UNSIGNED" autoIncrement="true">
+		<createTable tableName="inseereg">
+			<column name="regionCode" type="INTEGER UNSIGNED">
 				<constraints nullable="false" primaryKey="true" />
 			</column>
 
-			<column name="name" type="varchar(32)">
+			<column name="regionName" type="varchar(32)">
 				<constraints nullable="false" />
 			</column>
-
+			<column name="nbrCommunes" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
+			</column>
+			<column name="populationTotale" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
+			</column>
 
 		</createTable>
 		<modifySql dbms="mysql">
@@ -21,47 +26,28 @@
 
 
 
-
 	<changeSet id="2" author="rlaouadi">
-		<createTable tableName="country">
-			<column name="geonameId" type="INTEGER UNSIGNED">
+		<createTable tableName="inseedept">
+			<column name="deptCode" type="varchar(5)">
 				<constraints nullable="false" primaryKey="true" />
 			</column>
 
-			<column name="countryCode" type="varchar(32)">
-			</column>
-			<column name="countryName" type="varchar(256)">
-			</column>
-			<column name="isoNumeric" type="varchar(32)">
-			</column>
-			<column name="isoAlpha3" type="varchar(32)">
-			</column>
-			<column name="fipsCode" type="varchar(32)">
+			<column name="deptName" type="varchar(155)">
+				<constraints nullable="false" primaryKey="true" />
 			</column>
 
 
-			<column name="continent" type="varchar(32)">
-			</column>
-			<column name="continentName" type="varchar(256)">
-			</column>
-			<column name="capital" type="varchar(256)">
-			</column>
-			<column name="areaInSqKm" type="varchar(256)">
-			</column>
-			<column name="population" type="INTEGER UNSIGNED">
-			</column>
-			<column name="currencyCode" type="varchar(32)">
-			</column>
-			<column name="languages" type="varchar(128)">
+			<column name="nbrCommunes" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
 			</column>
 
-			<column name="west" type="DOUBLE">
+			<column name="populationTotal" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
 			</column>
-			<column name="north" type="DOUBLE">
-			</column>
-			<column name="east" type="DOUBLE">
-			</column>
-			<column name="south" type="DOUBLE">
+
+			<column name="regionCode" type="INTEGER UNSIGNED">
+				<constraints nullable="false" foreignKeyName="fk_reg"
+					references="inseereg(regionCode)" />
 			</column>
 
 
@@ -73,25 +59,25 @@
 
 
 	<changeSet id="3" author="rlaouadi">
-		<createTable tableName="feature">
-			<column name="geoNameId" type="INTEGER UNSIGNED">
+		<createTable tableName="inseecom">
+
+			<column name="inseeCode" type="INTEGER UNSIGNED">
 				<constraints nullable="false" primaryKey="true" />
 			</column>
 
-			<column name="name" type="varchar(256)">
+			<column name="deptCode" type="varchar(5)">
+				<constraints nullable="false" foreignKeyName="fk_dep"
+					references="inseedept(deptCode)" />
+			</column>
+			<column name="communeCode" type="INTEGER UNSIGNED">
 				<constraints nullable="false" />
 			</column>
 
-			<column name="countryCode" type="varchar(32)">
+			<column name="communeName" type="varchar(256)">
+				<constraints nullable="false" />
 			</column>
-
-			<column name="latitude" type="DOUBLE">
-			</column>
-			<column name="longitude" type="DOUBLE">
-			</column>
-
-
-			<column name="codePostal" type="varchar(10)">
+			<column name="populationTotal" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
 			</column>
 
 		</createTable>
@@ -100,12 +86,8 @@
 		</modifySql>
 	</changeSet>
 
-	<changeSet id="4" author="rlaouadi">
-		<addForeignKeyConstraint constraintName="codeforgn"
-			referencedTableName="feature" baseColumnNames="countryCode"
-			baseTableName="country" referencedColumnNames="countryCode" />
-			
-		
-	</changeSet>
 
+
+
+</databaseChangeLog>
 	

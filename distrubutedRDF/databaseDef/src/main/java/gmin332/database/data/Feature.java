@@ -12,64 +12,18 @@ import org.hibernate.criterion.Restrictions;
 @Entity
 @Table(name = "feature")
 public class Feature {
-
 	@Id
 	long geoNameId;
 
 	String name;
 	String countryCode;
-	String latitude;
-	String longitude;
-	String codePostal;
-
-	public long getGeoNameId() {
-		return geoNameId;
-	}
-
-	public void setGeoNameId(long geoNameId) {
-		this.geoNameId = geoNameId;
-	}
-
-	public String getName() {
-		return name.replace(';', '\'');
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public String getCountryCode() {
-		return countryCode;
-	}
-
-	public void setCountryCode(String countryCode) {
-		this.countryCode = countryCode;
-	}
-
-	public String getLatitude() {
-		return latitude;
-	}
-
-	public void setLatitude(String latitude) {
-		this.latitude = latitude;
-	}
-
-	public String getLongitude() {
-		return longitude;
-	}
-
-	public void setLongitude(String longitude) {
-		this.longitude = longitude;
-	}
-
-	public String getCodePostal() {
-		return codePostal;
-	}
-
-	public void setCodePostal(String codePostal) {
-		this.codePostal = codePostal;
-	}
-
+	double latitude;
+	double longitude;
+	int inseeCode;
+	int DeptCode;
+	int population;
+	
+	
 	public static Feature findById(Session session, long id) {
 		Feature out = (Feature) session.createCriteria(Feature.class)
 				.add(Restrictions.eq("geoNameId", id)).uniqueResult();

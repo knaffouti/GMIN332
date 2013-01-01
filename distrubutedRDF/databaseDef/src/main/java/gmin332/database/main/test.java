@@ -1,9 +1,6 @@
 package gmin332.database.main;
 
-import gmin332.database.data.Feature;
 import gmin332.database.utils.HibernateUtils;
-
-import java.util.List;
 
 import org.hibernate.Session;
 
@@ -17,13 +14,10 @@ public class test {
 		System.out.println("rabah");
 		Session f = HibernateUtils.getSessionFactory().openSession();
 		
-		List<Feature> s = Feature.findByLike(f, "bouira");
 		
 		f.close();
 		
-		for (Feature feature : s) {
-			System.out.println(feature.getName());	
-		}//*/
+		
 		
 		
 	}
