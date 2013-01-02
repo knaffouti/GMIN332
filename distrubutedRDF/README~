@@ -1,0 +1,18 @@
+Bonjour, 
+  Ce projet est un projet MAVEN
+
+Pour le Compiler et l'installer
+
+------
+      mvn compile install
+------
+
+
+Pour creer la base de données  allez dans le le dossier  <strong> databaseDef/src/main/resources/rdfdatabase.cfg.xml <strong>
+ et mettez votre login et le mot de passe de votre mysql 
+
+apres il faut creer la base de données rdfdatabase   <strong> create database rdfdatabase; <strong>
+
+
+Apres dans le dossier 'databaseDef'  tapez
+
