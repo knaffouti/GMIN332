@@ -1,0 +1,213 @@
+@prefix map: <#> .
+@prefix db: <> .
+@prefix vocab: <vocab/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix jdbc: <http://d2rq.org/terms/jdbc/> .
+
+map:database a d2rq:Database;
+	d2rq:jdbcDriver "com.mysql.jdbc.Driver";
+	d2rq:jdbcDSN "jdbc:mysql://localhost:3306/rdfdatabase";
+	d2rq:username "root";
+	d2rq:password "rabah123";
+	jdbc:autoReconnect "true";
+	jdbc:zeroDateTimeBehavior "convertToNull";
+	.
+
+# Table feature
+map:feature a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "feature/@@feature.identifier@@";
+	d2rq:class vocab:feature;
+	d2rq:classDefinitionLabel "feature";
+	.
+map:feature__label a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property rdfs:label;
+	d2rq:pattern "feature #@@feature.identifier@@";
+	.
+map:feature_identifier a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_identifier;
+	d2rq:propertyDefinitionLabel "feature identifier";
+	d2rq:column "feature.identifier";
+	d2rq:datatype xsd:integer;
+	.
+map:feature_name a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_name;
+	d2rq:propertyDefinitionLabel "feature name";
+	d2rq:column "feature.name";
+	.
+map:feature_countryCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_countryCode;
+	d2rq:propertyDefinitionLabel "feature countryCode";
+	d2rq:column "feature.countryCode";
+	.
+map:feature_latitude a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_latitude;
+	d2rq:propertyDefinitionLabel "feature latitude";
+	d2rq:column "feature.latitude";
+	d2rq:datatype xsd:double;
+	.
+map:feature_longitude a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_longitude;
+	d2rq:propertyDefinitionLabel "feature longitude";
+	d2rq:column "feature.longitude";
+	d2rq:datatype xsd:double;
+	.
+map:feature_population a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_population;
+	d2rq:propertyDefinitionLabel "feature population";
+	d2rq:column "feature.population";
+	d2rq:datatype xsd:integer;
+	.
+map:feature_deptCode__ref a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_deptCode;
+	d2rq:refersToClassMap map:inseedept;
+	d2rq:join "feature.deptCode => inseedept.deptCode";
+	.
+map:feature_inseeCode__ref a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:feature;
+	d2rq:property vocab:feature_inseeCode;
+	d2rq:refersToClassMap map:inseecom;
+	d2rq:join "feature.inseeCode => inseecom.inseeCode";
+	.
+
+# Table inseecom
+map:inseecom a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "inseecom/@@inseecom.inseeCode|urlify@@";
+	d2rq:class vocab:inseecom;
+	d2rq:classDefinitionLabel "inseecom";
+	.
+map:inseecom__label a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property rdfs:label;
+	d2rq:pattern "inseecom #@@inseecom.inseeCode@@";
+	.
+map:inseecom_inseeCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property vocab:inseecom_inseeCode;
+	d2rq:propertyDefinitionLabel "inseecom inseeCode";
+	d2rq:column "inseecom.inseeCode";
+	.
+map:inseecom_communeCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property vocab:inseecom_communeCode;
+	d2rq:propertyDefinitionLabel "inseecom communeCode";
+	d2rq:column "inseecom.communeCode";
+	d2rq:datatype xsd:integer;
+	.
+map:inseecom_communeName a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property vocab:inseecom_communeName;
+	d2rq:propertyDefinitionLabel "inseecom communeName";
+	d2rq:column "inseecom.communeName";
+	.
+map:inseecom_populationTotal a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property vocab:inseecom_populationTotal;
+	d2rq:propertyDefinitionLabel "inseecom populationTotal";
+	d2rq:column "inseecom.populationTotal";
+	d2rq:datatype xsd:integer;
+	.
+map:inseecom_deptCode__ref a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseecom;
+	d2rq:property vocab:inseecom_deptCode;
+	d2rq:refersToClassMap map:inseedept;
+	d2rq:join "inseecom.deptCode => inseedept.deptCode";
+	.
+
+# Table inseedept
+map:inseedept a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "inseedept/@@inseedept.deptCode|urlify@@/@@inseedept.deptName|urlify@@";
+	d2rq:class vocab:inseedept;
+	d2rq:classDefinitionLabel "inseedept";
+	.
+map:inseedept__label a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property rdfs:label;
+	d2rq:pattern "inseedept #@@inseedept.deptCode@@/@@inseedept.deptName@@";
+	.
+map:inseedept_deptCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property vocab:inseedept_deptCode;
+	d2rq:propertyDefinitionLabel "inseedept deptCode";
+	d2rq:column "inseedept.deptCode";
+	.
+map:inseedept_deptName a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property vocab:inseedept_deptName;
+	d2rq:propertyDefinitionLabel "inseedept deptName";
+	d2rq:column "inseedept.deptName";
+	.
+map:inseedept_nbrCommunes a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property vocab:inseedept_nbrCommunes;
+	d2rq:propertyDefinitionLabel "inseedept nbrCommunes";
+	d2rq:column "inseedept.nbrCommunes";
+	d2rq:datatype xsd:integer;
+	.
+map:inseedept_populationTotal a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property vocab:inseedept_populationTotal;
+	d2rq:propertyDefinitionLabel "inseedept populationTotal";
+	d2rq:column "inseedept.populationTotal";
+	d2rq:datatype xsd:integer;
+	.
+map:inseedept_regionCode__ref a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseedept;
+	d2rq:property vocab:inseedept_regionCode;
+	d2rq:refersToClassMap map:inseereg;
+	d2rq:join "inseedept.regionCode => inseereg.regionCode";
+	.
+
+# Table inseereg
+map:inseereg a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "inseereg/@@inseereg.regionCode@@";
+	d2rq:class vocab:inseereg;
+	d2rq:classDefinitionLabel "inseereg";
+	.
+map:inseereg__label a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseereg;
+	d2rq:property rdfs:label;
+	d2rq:pattern "inseereg #@@inseereg.regionCode@@";
+	.
+map:inseereg_regionCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseereg;
+	d2rq:property vocab:inseereg_regionCode;
+	d2rq:propertyDefinitionLabel "inseereg regionCode";
+	d2rq:column "inseereg.regionCode";
+	d2rq:datatype xsd:integer;
+	.
+map:inseereg_regionName a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseereg;
+	d2rq:property vocab:inseereg_regionName;
+	d2rq:propertyDefinitionLabel "inseereg regionName";
+	d2rq:column "inseereg.regionName";
+	.
+map:inseereg_nbrCommunes a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseereg;
+	d2rq:property vocab:inseereg_nbrCommunes;
+	d2rq:propertyDefinitionLabel "inseereg nbrCommunes";
+	d2rq:column "inseereg.nbrCommunes";
+	d2rq:datatype xsd:integer;
+	.
+map:inseereg_populationTotale a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:inseereg;
+	d2rq:property vocab:inseereg_populationTotale;
+	d2rq:propertyDefinitionLabel "inseereg populationTotale";
+	d2rq:column "inseereg.populationTotale";
+	d2rq:datatype xsd:integer;
+	.
+

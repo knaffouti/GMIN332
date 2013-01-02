@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
 
-	<changeSet id="1" author="rlaouadi">
+	<!-- changeSet id="1" author="rlaouadi">
 		<createTable tableName="inseereg">
 			<column name="regionCode" type="INTEGER UNSIGNED">
 				<constraints nullable="false" primaryKey="true" />
@@ -61,7 +61,7 @@
 	<changeSet id="3" author="rlaouadi">
 		<createTable tableName="inseecom">
 
-			<column name="inseeCode" type="INTEGER UNSIGNED">
+			<column name="inseeCode" type="varchar(24)">
 				<constraints nullable="false" primaryKey="true" />
 			</column>
 
@@ -79,6 +79,51 @@
 			<column name="populationTotal" type="INTEGER UNSIGNED">
 				<constraints nullable="false" />
 			</column>
+
+		</createTable>
+		<modifySql dbms="mysql">
+			<append value=" ENGINE InnoDB CHARACTER SET utf8" />
+		</modifySql>
+	</changeSet-->
+
+
+	<changeSet id="1" author="rlaouadi">
+		<createTable tableName="feature" >
+
+			<column name="identifier" type="INTEGER UNSIGNED">
+				<constraints nullable="false" primaryKey="true" />
+			</column>
+
+
+			<column name="name" type="varchar(256)">
+			</column>
+
+			<column name="countryCode" type="varchar(5)">
+			</column>
+
+			<column name="inseeCode" type="varchar(24)">
+				<constraints nullable="false" foreignKeyName="fk_feature_com"
+					references="inseecom(inseeCode)" />
+			</column>
+
+
+			<column name="deptCode" type="varchar(5)">
+				<constraints nullable="false" foreignKeyName="fk_feature_dep"
+					references="inseedept(deptCode)" />
+			</column>
+
+
+			<column name="latitude" type="DOUBLE">
+				<constraints nullable="false" />
+			</column>
+			<column name="longitude" type="DOUBLE">
+				<constraints nullable="false" />
+			</column>
+
+			<column name="population" type="INTEGER UNSIGNED">
+				<constraints nullable="false" />
+			</column>
+
 
 		</createTable>
 		<modifySql dbms="mysql">

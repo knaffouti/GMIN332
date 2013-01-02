@@ -15,7 +15,7 @@
 		<mapping class="gmin332.database.insee.Commune" />
 		<mapping class="gmin332.database.insee.Departement" />
 		<mapping class="gmin332.database.insee.Region" />
-		
+		<mapping class="gmin332.database.geonames.Feature" />
 		
 		
 		</session-factory>
