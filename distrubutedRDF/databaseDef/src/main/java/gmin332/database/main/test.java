@@ -6,12 +6,14 @@ import gmin332.database.insee.Departement;
 import gmin332.database.insee.Region;
 import gmin332.database.utils.D2rqEndoidPoint;
 import gmin332.database.utils.HibernateUtils;
+import gmin332.database.utils.StatmentInter;
 
 import java.util.List;
 
 import org.hibernate.Session;
 
 import com.hp.hpl.jena.rdf.model.Resource;
+import com.hp.hpl.jena.rdf.model.Statement;
 
 public class test {
 
@@ -19,11 +21,11 @@ public class test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		List<Resource> fs = D2rqEndoidPoint.executeSPARQLToD2rq(null,
-				D2rqEndoidPoint.VOCAB + "inseereg_populationTotale", null, 10);
+		List<StatmentInter> fs = D2rqEndoidPoint.executeSPARQLToD2rq("<http://localhost:2020/resource/inseecom/971101>",
+				null, null, 10);
 
-		for (Resource resource : fs) {
-
+		for (StatmentInter resource : fs) {
+			System.out.println(resource);
 		}
 
 	}
