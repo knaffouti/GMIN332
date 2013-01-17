@@ -108,7 +108,7 @@ public class Generator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Generator f = new Generator("all1.rdf", "geodata",
+		Generator f = new Generator("map.rdf", "reda",
 				"http://localhost:2020/raw");
 		f.generateTableHbase();
 		f.parser();

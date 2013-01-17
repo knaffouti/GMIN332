@@ -30202,8 +30202,4 @@
     <ins:inseecom_inseeCode>50008</ins:inseecom_inseeCode>
     <rdf:type rdf:resource="http://localhost:2020/insee#inseecom"/>
   </rdf:Description>
-  <rdf:Description rdf:about="#feature/6945694">
-    <geo:feature_deptCode rdf:resource="#inseedept/86/Vienne"/>
-    <geo:feature_inseeCode rdf:resource="#inseecom/86157"/>
-    <geo:feature_longitude>0.42376E0</geo:feature_longitude>
-    <geo:feature_latitude>46.53064E0</geo:feature_latitu
+</rdf:RDF>

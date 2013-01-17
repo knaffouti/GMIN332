@@ -1,0 +1,2909 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:project-communes="http://www.ourProject/communes.fr#" > 
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#244.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2903.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1276607.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>220.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78423.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#136.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5437.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1646663.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2478.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92063.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#27.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5428.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1611657.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>393.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>64102.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#201.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3939.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1400575.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>214.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95197.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#55.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5487.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1654571.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2268.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>35238.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#405.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3714.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1358960.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>97.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69275.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#248.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7310.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1826152.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1885.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78551.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#79.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8095.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1885703.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>122.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>2B033</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#176.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4658.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1521306.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>154.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93029.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#293.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>22534.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>3448616.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>415.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59163.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#270.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6484.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1717408.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>771.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>57463.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#2.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2802.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1342409.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>195.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>67218.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#399.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4840.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1538929.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>204.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38563.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#280.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3428.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1401732.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>174.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>32013.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#254.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3408.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1370786.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>244.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>30007.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#5.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5348.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1635569.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>434.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>68066.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#393.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6660.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1723223.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>411.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>74281.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#6.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5814.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1707529.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>576.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>68224.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#123.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4961.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1544152.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>757.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92025.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#367.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4185.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1451130.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1051.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83069.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#109.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4471.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1471586.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>274.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91549.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#12.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3659.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1615290.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>51.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33119.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#389.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4404.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1524270.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>184.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>26281.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#330.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5195.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1624814.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>276.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>2722.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#88.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4340.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1492876.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>197.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76217.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#359.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3170.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1436408.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>119.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13054.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#310.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4454.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1552471.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>209.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62119.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#163.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3513.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1358082.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>275.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77108.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#369.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3155.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1315318.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>302.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83126.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#240.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5756.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1654447.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1294.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78158.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#241.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2929.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1276627.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>56.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78440.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#52.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6428.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1764987.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>192.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>29039.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#295.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4085.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1452703.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>505.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59183.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#86.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4243.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1505183.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>318.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>27229.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#214.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4967.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1576890.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>700.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94018.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#99.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5506.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1586556.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>254.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91201.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#82.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3295.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1400614.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>130.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>39198.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#327.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4974.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1581232.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>338.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>85191.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#297.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6239.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1843543.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>259.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59368.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#339.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3938.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1430489.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>174.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>17415.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#224.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6544.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1743785.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1203.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94052.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#84.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7566.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1833466.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>93.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97113.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#189.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4035.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1429043.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>170.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93055.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#63.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6425.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1720998.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>254.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>36044.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#80.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5969.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1627170.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>728.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>25056.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#319.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4190.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1404539.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>358.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44184.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#175.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3970.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1447093.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>92.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93010.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#255.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5349.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1618859.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1189.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>30189.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#45.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3336.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1335232.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>95.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>71153.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#71.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8059.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1940909.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>56.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>8409.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#35.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6001.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1640974.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>874.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>63113.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#321.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6088.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1580181.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>276.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44215.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#54.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4308.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1501940.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>135.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>35115.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#406.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6461.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1759539.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>7088.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69123.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#174.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3743.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1470966.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>76.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93006.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#56.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4738.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1536422.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>815.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>35288.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#311.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5859.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1634098.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>185.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62160.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#118.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8086.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1945539.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>5132.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92012.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#161.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3592.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1473156.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>112.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77058.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#372.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3690.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1394003.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>502.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83129.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#77.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7234.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1797635.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1255.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>51454.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#237.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3108.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1315973.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>137.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78297.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#97.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3697.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1428260.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>351.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91114.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#195.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3796.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1426589.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>96.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93073.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#370.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3590.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1377116.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>180.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83144.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#87.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4354.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1483115.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>200.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>27681.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#135.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4609.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1562709.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>542.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92062.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#239.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7266.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1808282.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>928.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78126.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#157.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>10476.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2223363.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>8168.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75117.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#317.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3501.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1379311.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>155.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44143.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#380.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5185.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1609395.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>68.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97409.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#39.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4351.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1482781.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>108.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>50502.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#378.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4758.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1661209.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>78.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97408.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#190.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4175.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1476890.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>74.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93063.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#73.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3823.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1459033.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>97.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>52121.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#58.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4618.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1576995.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>855.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>56260.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#356.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6253.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1577806.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>407.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13005.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#207.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5228.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1603595.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>202.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95500.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#304.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7535.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1886476.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>307.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59512.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#251.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6530.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1755034.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>4458.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78646.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#178.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3922.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1393274.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>245.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93032.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#194.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2704.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1270772.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>60.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93071.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#122.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3863.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1447772.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>237.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92024.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#209.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2989.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1338598.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>79.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95585.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#391.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5586.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1561077.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>910.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>74010.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#155.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6689.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1778189.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>9797.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75115.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#142.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5940.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1777285.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>555.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75102.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#358.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4254.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1464165.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>393.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13028.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#261.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5945.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1685238.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>335.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34301.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#373.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4466.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1447838.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1382.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83137.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#410.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6628.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1664760.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>139.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69290.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#81.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3858.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1400951.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>126.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>25388.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#177.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3560.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1373999.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>109.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93031.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#274.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7828.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1804842.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>233.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>88160.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#360.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6633.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1721233.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>6205.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13055.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#125.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3515.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1401903.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>495.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92032.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#301.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8501.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2035176.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1252.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59378.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#14.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5184.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1529514.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>374.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33529.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#257.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5442.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1654879.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>492.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34032.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#376.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3374.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1442163.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>192.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>84035.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#333.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5475.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1577765.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>151.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>80001.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#198.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7077.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1751821.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>299.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95018.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#414.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3965.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1434470.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>546.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69266.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#316.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4857.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1551114.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>373.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44114.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#169.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6458.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1602669.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>140.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77350.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#212.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3499.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1413231.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>269.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94016.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#196.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4896.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1582180.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>339.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93077.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#404.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5637.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1694923.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>928.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69034.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#403.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3760.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1462777.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>325.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69029.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#112.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3177.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1319460.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>127.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91687.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#76.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7972.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1906178.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>179.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>51230.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#281.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3319.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1425324.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>157.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>31069.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#17.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3593.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1418046.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>489.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33281.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#383.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4872.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1649996.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>381.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97415.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#110.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3358.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1310945.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>320.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91589.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#40.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4958.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1612030.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>141.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>61001.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#113.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3111.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1364430.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>258.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91691.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#320.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4443.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1446391.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>221.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44190.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#46.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>9013.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1786832.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>231.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>71270.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#9.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7369.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1713225.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>227.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>24322.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#242.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5144.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1633185.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1061.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78358.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#144.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>11951.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2346786.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1637.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75104.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#382.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5078.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1775807.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>53.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97414.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#344.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5157.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1583387.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1724.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6004.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#285.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4668.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1544073.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>296.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>31557.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#377.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4198.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1490993.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>176.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>84087.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#407.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6075.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1641272.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>162.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69282.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#287.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2963.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1266719.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>158.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>46042.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#351.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4652.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1544756.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>343.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6123.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#291.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4554.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1520800.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>101.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59017.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#226.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6385.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1703428.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2665.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94068.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#284.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5477.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1610009.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>4265.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>31555.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#288.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5072.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1556130.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>324.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>81004.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#103.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4140.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1429442.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>96.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91345.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#300.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4705.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1498779.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>63.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59360.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#340.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5471.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1610231.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>445.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>79191.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#348.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7028.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1795849.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>675.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6030.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#197.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4565.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1453173.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>54.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93078.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#130.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8355.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1758911.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>228.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92046.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#138.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6507.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1825151.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>965.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92072.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#139.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5400.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1696937.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>869.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92073.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#10.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3452.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1338750.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>79.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33039.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#253.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4261.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1517361.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>311.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>11262.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#141.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>11861.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2272179.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>994.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75101.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#235.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3133.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1344342.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>247.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78172.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#307.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6898.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1858471.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>599.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59009.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#374.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6150.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1671275.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>612.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>84007.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#30.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5856.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1627288.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>238.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>3185.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#233.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3317.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1364099.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>276.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94081.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#152.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6047.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1657389.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>3451.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75112.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#16.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5482.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1667246.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>222.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33243.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#60.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5211.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1504956.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>115.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>18279.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#8.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4206.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1472045.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>200.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>24037.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#151.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5766.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1644587.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2939.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75111.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#121.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4541.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1507834.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1147.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92023.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#312.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4352.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1515995.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>224.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62193.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#243.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5579.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1674024.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>174.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78361.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#313.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4627.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1531772.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>73.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62427.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#43.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5099.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1579533.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>226.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>58194.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#108.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3405.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1292436.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>101.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91570.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#273.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6482.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1777020.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>340.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>57672.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#111.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2684.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1242092.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>77.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91657.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#268.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6076.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1790013.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>81.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>55545.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#279.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5184.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1591999.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>257.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>12202.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#283.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3574.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1365442.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>166.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>31395.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#245.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3798.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1440638.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>273.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78490.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#384.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4821.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1650889.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>186.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97416.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#385.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5123.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1622811.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>98.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97418.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#49.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6361.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1708800.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>207.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>89387.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#44.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4334.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1475425.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>293.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>71076.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#250.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3234.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1323974.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>265.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78640.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#78.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7712.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1835568.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>273.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>2A004</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#18.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4739.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1457331.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>408.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33318.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#216.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3962.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1463312.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>428.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94028.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#292.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5017.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1655600.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>263.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59122.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#62.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5971.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1637031.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>131.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>28134.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#390.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4818.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1560078.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>501.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>26362.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#105.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4151.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1452593.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>303.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91421.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#206.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6049.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1679781.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>547.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95428.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#104.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3180.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1277735.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>192.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91377.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#147.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>25016.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>3578414.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>7041.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75107.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#252.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4381.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1510546.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>269.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>11069.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#346.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7775.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1901332.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2341.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6029.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#386.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4536.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1496602.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>322.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>1053.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#347.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5093.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1564537.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>615.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6069.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#409.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4411.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1600750.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>171.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69286.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#262.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5368.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1621086.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>832.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>66136.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#299.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5646.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1675087.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1569.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59350.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#191.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3644.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1404436.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>205.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93064.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#205.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4582.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1483014.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>197.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95306.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#363.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4127.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1445234.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>70.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13117.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#203.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3249.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1331621.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>217.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95219.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#365.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3789.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1435374.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>420.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83050.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#388.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4697.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1607338.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>272.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>26198.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#23.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3941.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1455052.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>166.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>40192.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#234.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6243.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1726038.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1113.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78146.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#132.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6998.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1668355.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>649.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92049.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#186.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4674.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1522731.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>55.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93050.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#160.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4187.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1482320.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1826.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75120.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#95.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4447.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1417192.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>143.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91027.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#303.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7068.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1842578.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>90.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59410.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#102.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4193.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1478751.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>734.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91272.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#289.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5725.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1556237.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>252.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>81065.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#187.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3824.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1431940.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>310.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93051.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#148.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>17704.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2923659.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>4008.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75108.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#412.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5066.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1581701.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>65.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69259.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#305.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3977.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1430572.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>308.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59599.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#59.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6757.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1682745.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>452.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>18033.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#188.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4187.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1435054.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>138.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93053.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#167.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5182.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1601624.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>247.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77284.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#210.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3360.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1364164.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>201.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95607.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#57.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4457.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1526510.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>300.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>56121.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#199.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3177.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1327818.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>166.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95127.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#166.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5905.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1803971.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>64.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77285.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#336.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6031.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1638329.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>151.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>16102.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#185.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4304.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1475556.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>397.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93048.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#114.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3634.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1406852.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1463.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92002.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#179.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3197.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1325775.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>50.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93027.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#140.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4324.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1515618.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>563.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92075.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#115.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5718.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1628593.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1325.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92004.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#290.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5826.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1690921.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>355.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>82121.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#337.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5122.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1530874.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1120.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>17300.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#127.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4256.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1520728.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>539.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92035.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#150.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5605.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1628667.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1328.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75110.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#231.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4349.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1436447.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>168.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94079.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#400.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4837.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1566119.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>190.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>42187.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#149.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7275.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1846990.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2347.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75109.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#272.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5991.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1838898.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>122.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>57631.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#153.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5190.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1596192.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>3201.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75113.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#247.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5071.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1511435.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>424.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78517.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#338.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3503.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1388907.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>146.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>17299.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#277.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5980.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1670113.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>67.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97229.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#362.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3735.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1455617.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>303.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13103.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#72.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5747.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1708569.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>400.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>10387.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#129.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6125.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1761552.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1733.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92044.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#128.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3596.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1408510.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>303.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92060.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#219.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8463.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1886835.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>208.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94041.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#38.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4056.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1550072.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>214.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>50129.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#324.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3938.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1480641.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>224.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>49328.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#133.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3491.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1406950.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>464.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92050.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#36.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6029.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1708060.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1103.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>14118.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#34.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4956.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1561243.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>131.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>43157.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#146.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>18099.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2902344.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>4829.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75106.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#328.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5788.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1658340.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>135.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>2408.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#211.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3878.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1425989.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>127.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94002.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#65.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4804.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1548425.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1260.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>37261.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#101.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3708.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1423480.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>77.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91228.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#402.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6570.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1716373.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1038.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>42218.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#42.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5651.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1623242.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1360.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>21231.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#68.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3744.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1439216.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>344.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>45232.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#184.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3635.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1400854.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>117.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93047.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#75.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4843.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1632340.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>223.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>51108.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#32.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4997.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1491269.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>336.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>3310.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#69.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4625.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1541460.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1141.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>45234.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#218.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4276.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1424035.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>109.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94034.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#193.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4220.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1457436.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>102.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93070.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#215.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5015.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1512537.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>190.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94022.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#296.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4069.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1557918.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>152.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59295.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#396.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5376.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1589803.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1497.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38185.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#394.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5309.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1562057.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>153.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38053.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#415.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4041.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1436680.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>397.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>73008.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#329.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4441.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1578918.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>308.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>2691.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#33.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4873.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1520705.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>217.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>15014.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#298.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6038.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1808520.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>406.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59328.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#352.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5168.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1593377.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>526.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6155.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#278.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3781.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1451676.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>133.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>12145.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#83.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5594.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1644919.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>207.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>90010.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#332.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6352.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1711725.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>581.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>60159.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#100.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6214.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1749745.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>117.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91223.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#395.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2487.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1226623.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>112.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38151.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#217.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6884.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1790988.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>916.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94033.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#357.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2876.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1426659.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>130.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13047.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#158.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7200.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1805508.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2162.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75118.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#156.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>18428.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2949645.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>18850.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75116.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#74.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>11064.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2362798.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>91.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>52448.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#392.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3250.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1347422.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>234.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>74012.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#70.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4206.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1493096.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>245.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>8105.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#172.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5676.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1554057.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>102.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93001.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#249.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3909.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1416805.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>330.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78586.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#275.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4665.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1552087.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>118.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>88413.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#89.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3692.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1484027.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>138.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76259.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#11.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6279.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1711375.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>3480.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33063.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#180.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3624.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1361427.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>119.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93007.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#341.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4239.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1475899.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>175.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>86066.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#335.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5242.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1622886.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>296.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>16015.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#53.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4332.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1507825.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>454.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>29232.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#375.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5026.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1612700.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>226.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>84031.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#326.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5069.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1562559.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1028.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>72181.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#318.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3791.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1357272.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>200.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44162.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#411.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5758.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1683315.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>646.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69202.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#238.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3317.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1342191.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>319.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78311.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#325.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5119.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1572812.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>384.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>53130.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#13.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4307.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1435969.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>220.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33192.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#120.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3762.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1427012.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>401.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92020.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#37.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4469.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1522209.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>134.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>14366.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#220.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4385.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1462230.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>416.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94038.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#200.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3931.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1411802.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>247.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95176.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#31.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4015.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1460351.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>133.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>3190.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#354.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5825.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1661708.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2924.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13001.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#413.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4560.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1579698.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>197.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69264.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#119.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4419.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1502208.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>544.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92019.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#19.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3785.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1409657.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>178.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33449.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#159.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5292.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1616358.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1677.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75119.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#282.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3861.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1424228.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>174.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>31149.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#264.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8197.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1831310.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>971.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>87085.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#29.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4568.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1498961.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>842.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>64445.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#202.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3217.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1331894.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>278.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95203.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#106.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6421.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1728954.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>433.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91477.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#256.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4543.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1482231.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>273.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34003.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#50.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5249.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1616509.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>376.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>22278.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#143.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8602.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2011833.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1357.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75103.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#204.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5889.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1507234.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>133.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95252.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#171.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2800.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1287579.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>69.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77514.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#401.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6436.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1698732.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>155.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>42207.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#246.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3688.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1399537.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>314.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78498.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#271.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5334.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1569678.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>202.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>57480.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#48.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4089.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1436769.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>273.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>89024.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#182.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4062.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1487828.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>149.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93057.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#355.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4313.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1491888.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>342.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13004.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#22.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5503.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1532570.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>207.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>40088.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#314.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5344.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1638495.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>129.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62498.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#276.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>9419.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2228091.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>132.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97209.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#259.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3466.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1419089.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>99.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34145.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#398.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4312.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1520240.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>236.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38544.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#134.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>24708.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>3376636.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>7607.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92051.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#334.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5505.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1593477.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>938.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>80021.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#387.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8374.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1993496.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>175.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>1283.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#116.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3924.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1394019.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>141.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92007.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#349.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4863.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1507508.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>413.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6083.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#364.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4465.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1521444.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>363.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>5061.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#4.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8531.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1965049.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2693.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>67482.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#361.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3321.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1341124.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>223.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>13056.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#124.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4553.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1509884.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1750.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92026.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#260.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5338.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1590827.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1854.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34172.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#228.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4646.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1531872.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>260.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94073.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#154.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6916.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1807052.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>4769.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75114.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#168.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6063.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1661330.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>227.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77288.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#7.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4916.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1540099.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>95.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>68297.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#258.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3660.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1397632.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>97.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>34108.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#286.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3891.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1412263.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>215.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>65440.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#96.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3488.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1334110.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>107.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91103.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#269.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6544.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1700646.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>63.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>57227.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#51.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6115.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1701871.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>574.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>29019.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#164.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3679.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1397883.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>100.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77122.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#236.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2826.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1266800.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>164.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>78208.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#181.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6205.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1686027.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>186.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93045.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#229.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4645.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1488026.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>225.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94076.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#21.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7283.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1826688.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>139.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33550.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#208.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5384.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1481169.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>152.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>95582.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#137.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>12362.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2304732.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>2084.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92064.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#67.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3553.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1361603.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>58.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>45147.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#397.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4223.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1490926.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>82.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>38421.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#227.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3464.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1396153.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>402.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94071.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#331.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6484.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1744783.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>330.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>60057.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#162.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2830.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1307655.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>87.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77083.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#20.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3409.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1388382.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>291.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33522.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#15.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>12825.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2076005.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>481.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>33069.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#232.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5148.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1602216.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1507.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94080.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#222.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4651.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1546509.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>750.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94058.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#223.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4379.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1480126.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>503.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94046.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#353.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>13576.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2404897.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>423.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6900.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#213.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4808.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1496004.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>361.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94017.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#107.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3801.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1415578.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>110.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91521.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#368.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4166.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1507987.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>200.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83062.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#323.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4139.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1509368.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>405.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>49099.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#117.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3985.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1438179.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>552.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92009.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#24.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7080.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1678180.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>212.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>47001.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#131.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5639.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1678873.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1653.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92048.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#126.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4414.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1542782.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1234.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>92040.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#93.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3519.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1369348.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>52.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76575.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#183.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3559.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1358882.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>222.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93046.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#98.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3722.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1385103.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>147.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>91174.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#170.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3480.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1336906.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>163.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77373.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#26.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5112.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1535250.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>660.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>64024.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#343.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4836.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1454646.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>238.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>4112.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#25.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4252.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1495904.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>159.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>47323.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#302.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4363.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1434043.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>100.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59392.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#309.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>6053.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1682178.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>334.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>62041.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#342.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>10569.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1855076.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>578.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>86194.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#3.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5081.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1595616.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>126.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>67447.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#165.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4227.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1514022.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>94.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>77152.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#263.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5599.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1646800.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>429.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>19031.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#64.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3373.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1449137.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>170.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>37122.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#28.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5359.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1575743.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>809.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>64122.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#267.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3180.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1357570.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>137.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>54547.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#294.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4546.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1593224.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>360.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59178.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#91.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>7077.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1840019.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>524.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76451.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#322.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5325.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1561241.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1229.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>49007.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#265.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4845.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1626735.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>95.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>54329.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#345.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4629.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1487770.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>679.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6027.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#371.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4455.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1513696.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>968.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83118.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#92.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5443.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1596948.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>936.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76540.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#366.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4725.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1519260.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>389.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>83061.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#221.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3997.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1426519.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>136.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94043.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#47.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3933.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1406483.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>57.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>71306.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#94.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3293.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1376874.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>65.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76681.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#173.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4194.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1428588.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>330.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93005.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#315.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5612.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1651401.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>3847.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>44109.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#90.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4859.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1533446.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>778.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>76351.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#350.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5271.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1584289.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>5119.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>6088.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#381.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4983.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1636950.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>715.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97411.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#85.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>15765.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2498071.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>58.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97302.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#266.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>9284.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1879737.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>1124.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>54395.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#306.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4637.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1518948.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>356.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59606.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#225.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>3477.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1334407.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>67.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94054.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#308.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>2611.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1284440.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>56.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>59650.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#66.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4819.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1509989.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>317.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>41018.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#416.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5364.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1565060.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>714.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>73065.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#230.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4187.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1419915.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>57.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>94078.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#192.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5180.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1590724.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>107.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>93066.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#408.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4460.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1437531.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>142.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>69149.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#145.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>8419.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>2007289.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>3515.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>75105.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#379.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4954.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1596520.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>181.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>97422.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#41.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>4396.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1550849.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>255.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>21054.0</project-communes:CodeInsee>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ourProject/communes.fr#61.0">
+    <project-communes:annee>2008.0</project-communes:annee>
+    <project-communes:ImpotMoyen>5073.0</project-communes:ImpotMoyen>
+    <project-communes:PatrimoineM>1575580.0</project-communes:PatrimoineM>
+    <project-communes:nbreredevable>482.0</project-communes:nbreredevable>
+    <project-communes:CodeInsee>28085.0</project-communes:CodeInsee>
+  </rdf:Description>
+</rdf:RDF>
