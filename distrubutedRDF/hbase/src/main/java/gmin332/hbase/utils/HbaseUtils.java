@@ -78,8 +78,8 @@ public class HbaseUtils {
 	 */
 	public static void putRaw( String raw, String family,
 			String qualifier, String value) {
-		Put put1 = new Put(raw.getBytes());
-		put1.add(family.getBytes(), qualifier.getBytes(), value.getBytes());
+		Put put1 = new Put(new String(raw).getBytes());
+		put1.add(new String(family).getBytes(), new String(qualifier).getBytes(), new String(value).getBytes());
 
 		try {
 			htable.put(put1);

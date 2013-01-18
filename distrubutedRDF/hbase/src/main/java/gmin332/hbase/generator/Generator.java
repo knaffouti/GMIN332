@@ -8,6 +8,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+import org.jruby.RubyProcess.Sys;
+
 import com.hp.hpl.jena.graph.Triple;
 import com.hp.hpl.jena.ontology.OntModel;
 import com.hp.hpl.jena.ontology.OntModelSpec;
@@ -94,10 +96,12 @@ public class Generator {
 					":")[1];
 			String value = filterNS(ele.getObject().toString());
 
+			value = value.replaceAll("\"", "");
+
 			System.out.println("Insert into '" + hbasetablename + "' (" + raw
 					+ "," + family + ":" + qualifier + "," + value + ") "
 					+ (i++) + "/" + size);
-			HbaseUtils.putRaw(raw, family, qualifier, value);
+			HbaseUtils.putRaw(raw, family, qualifier, value);// */
 
 		}
 	}
@@ -108,10 +112,11 @@ public class Generator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		Generator f = new Generator("map.rdf", "reda",
-				"http://localhost:2020/raw");
+		Generator f = new Generator("feature1.rdf", "feature",
+				"http://localhost:2020/resources");
 		f.generateTableHbase();
 		f.parser();
 
 	}
+
 }

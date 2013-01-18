@@ -1,0 +1,69 @@
+@prefix geo: <http://localhost:2020/geonames#> .
+@prefix ins: <http://localhost:2020/insee#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix jdbc: <http://d2rq.org/terms/jdbc/> .
+
+geo:database a d2rq:Database;
+	d2rq:jdbcDriver "com.mysql.jdbc.Driver";
+	d2rq:jdbcDSN "jdbc:mysql://localhost:3306/rdfdatabase";
+	d2rq:username "root";
+	d2rq:password "rabah123";
+	jdbc:autoReconnect "true";
+	jdbc:zeroDateTimeBehavior "convertToNull";
+	.
+
+
+# Table feature
+geo:feature a d2rq:ClassMap;
+	d2rq:dataStorage geo:database;
+	d2rq:uriPattern "@@feature.identifier@@";
+	d2rq:class geo:feature;
+	d2rq:classDefinitionLabel "feature";
+	.
+geo:feature__label a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property rdfs:label;
+	d2rq:pattern "feature #@@feature.identifier@@";
+	.
+geo:feature_identifier a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_identifier;
+	d2rq:propertyDefinitionLabel "feature identifier";
+	d2rq:column "feature.identifier";
+	.
+geo:feature_name a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_name;
+	d2rq:propertyDefinitionLabel "feature name";
+	d2rq:column "feature.name";
+	.
+geo:feature_countryCode a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_countryCode;
+	d2rq:propertyDefinitionLabel "feature countryCode";
+	d2rq:column "feature.countryCode";
+	.
+geo:feature_latitude a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_latitude;
+	d2rq:propertyDefinitionLabel "feature latitude";
+	d2rq:column "feature.latitude";
+	.
+geo:feature_longitude a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_longitude;
+	d2rq:propertyDefinitionLabel "feature longitude";
+	d2rq:column "feature.longitude";
+	.
+geo:feature_population a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap geo:feature;
+	d2rq:property geo:feature_population;
+	d2rq:propertyDefinitionLabel "feature population";
+	d2rq:column "feature.population";
+	.
+
+
+

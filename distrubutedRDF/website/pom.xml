@@ -65,6 +65,21 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>gmin332</groupId>
+			<artifactId>hbase</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>gmin332</groupId>
+			<artifactId>databaseDef</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>gmin332</groupId>
+			<artifactId>SDB_Sesame</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>website</finalName>

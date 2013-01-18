@@ -1,7 +1,7 @@
 package gmin332.database.geonames;
 
-import gmin332.database.insee.Commune;
-import gmin332.database.insee.Departement;
+import gmin332.database.ins.Commune;
+import gmin332.database.ins.Departement;
 
 import java.util.List;
 

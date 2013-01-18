@@ -12,7 +12,8 @@
 		<module>hbase</module>
 		<module>sdb-sesame</module>
     	<module>website</module>
-  </modules>
+    	<module>dispatch</module>
+	</modules>
 
 
 	<build>

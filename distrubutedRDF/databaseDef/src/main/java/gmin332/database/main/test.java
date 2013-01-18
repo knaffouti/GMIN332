@@ -1,12 +1,12 @@
 package gmin332.database.main;
 
 import gmin332.database.geonames.Feature;
-import gmin332.database.insee.Commune;
-import gmin332.database.insee.Departement;
-import gmin332.database.insee.Region;
-import gmin332.database.utils.D2rqEndoidPoint;
-import gmin332.database.utils.HibernateUtils;
-import gmin332.database.utils.StatmentInter;
+import gmin332.database.ins.Commune;
+import gmin332.database.ins.Departement;
+import gmin332.database.ins.Region;
+import gmin332.database.util.HibernateUtils;
+import gmin332.database.util.RD2rq;
+import gmin332.database.util.StatmetInter;
 
 import java.util.List;
 
@@ -21,10 +21,10 @@ public class test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		List<StatmentInter> fs = D2rqEndoidPoint.executeSPARQLToD2rq("<http://localhost:2020/resource/inseecom/971101>",
+		List<StatmetInter> fs = RD2rq.executeSPARQLToD2rq("<http://localhost:2020/resource/inseecom/971101>",
 				null, null, 10);
 
-		for (StatmentInter resource : fs) {
+		for (StatmetInter resource : fs) {
 			System.out.println(resource);
 		}
 
