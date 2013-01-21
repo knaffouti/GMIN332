@@ -1,6 +1,10 @@
 package gmin332.website.pages;
 
-public class Contact
-{
+import org.apache.tapestry5.annotations.Property;
+
+public class Contact {
+
+	@Property
+	String	test;
 
 }

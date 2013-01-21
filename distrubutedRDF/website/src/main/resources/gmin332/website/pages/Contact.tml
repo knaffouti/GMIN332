@@ -1,7 +1,8 @@
-<html t:type="layout" title="Contact gmin332"
+<html t:type="layoutWS" 
       xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
       xmlns:p="tapestry:parameter">
 
-    <p>Contact gmin332 ...</p>
+    <p>Contact um2 ...</p>
 
+	
 </html>

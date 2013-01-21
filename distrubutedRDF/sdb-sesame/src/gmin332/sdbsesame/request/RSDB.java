@@ -18,7 +18,7 @@ import com.hp.hpl.jena.vocabulary.RDF;
 public class RSDB {
 	public static final String NL = System.getProperty("line.separator");
 
-	public static ResultSet Send(String request) {
+	public static ResultSet send(String request) {
 
 		IDBConnection conn = null;
 

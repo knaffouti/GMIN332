@@ -11,8 +11,8 @@
 		<module>databaseDef</module>
 		<module>hbase</module>
 		<module>sdb-sesame</module>
-    	<module>website</module>
     	<module>dispatch</module>
+    	<module>website</module>
 	</modules>
 
 

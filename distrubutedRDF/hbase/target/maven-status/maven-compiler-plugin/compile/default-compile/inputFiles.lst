@@ -1,0 +1,10 @@
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/mapreduce/NbrPopulationbyDept.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/Triple.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/FamilyQualfierType.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/other/CustomFilter.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/generator/Generator.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/HbaseUtils.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/other/NumberCompartor.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/HBaseConnector.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/RHbaseGet.java
+/home/rlaouadi/git/GMIN332/distrubutedRDF/hbase/src/main/java/gmin332/hbase/utils/FormHbase.java

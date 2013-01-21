@@ -1,50 +1,172 @@
 package gmin332.website.pages;
 
-import java.util.Date;
-import org.apache.tapestry5.annotations.*;
-import org.apache.tapestry5.ioc.annotations.*;
-import org.apache.tapestry5.corelib.components.*;
-import org.apache.tapestry5.SymbolConstants;
-import org.apache.tapestry5.alerts.AlertManager;
+import gmin332.database.util.RD2rq;
+import gmin332.dispatch.main.ConvertToMap;
+import gmin332.hbase.utils.FamilyQualfierType;
+import gmin332.hbase.utils.RHbaseGet;
+import gmin332.sdbsesame.request.RSDB;
+import gmin332.sdbsesame.request.RSesame;
+
+import java.util.ArrayList;
+import java.util.Map;
+
+import org.apache.tapestry5.annotations.Log;
+import org.apache.tapestry5.annotations.Persist;
+import org.apache.tapestry5.annotations.Property;
+
+import com.hp.hpl.jena.query.ResultSet;
 
 /**
  * Start page of application website.
  */
-public class Index
-{
-    @Property
-    @Inject
-    @Symbol(SymbolConstants.TAPESTRY_VERSION)
-    private String tapestryVersion;
+public class Index {
 
-    @InjectComponent
-    private Zone zone;
+	@Property
+	@Persist
+	int currentTab ;
 
-    @Persist
-    @Property
-    private int clickCount;
+	
+	@Property
+	@Persist
+	String ReqSDB;
 
-    @Inject
-    private AlertManager alertManager;
+	public Object onSubmitFromFormSDB() {
+		System.out.println("I am HERE " + ReqSDB);
+		if (ReqSDB != null) {
+			ResultSet f3 = RSDB.send(ReqSDB);
+			results = ConvertToMap.getListFromResultSet(f3);//
 
-    public Date getCurrentTime()
-    {
-        return new Date();
-    }
+			if (sujets != null)
+				sujets = null;
 
-    void onActionFromIncrement()
-    {
-        alertManager.info("Increment clicked");
+			for (String ele : results.keySet()) {
+				if (sujets == null)
+					sujets = results.get(ele);
+			}
+		}
+		return this;
 
-        clickCount++;
-    }
+	}
 
-    Object onActionFromIncrementAjax()
-    {
-        clickCount++;
+	@Property
+	@Persist
+	String ReqSESAME;
 
-        alertManager.info("Increment (via Ajax) clicked");
+	public Object onSubmitFromFormSESAME() {
+		System.out.println("I am HERE " + ReqSESAME);
+		if (ReqSESAME != null) {
+			ResultSet f3 = RSesame.send(ReqSESAME);
+			results = ConvertToMap.getListFromResultSet(f3);
 
-        return zone;
-    }
+			if (sujets != null)
+				sujets = null;
+
+			for (String ele : results.keySet()) {
+				if (sujets == null)
+					sujets = results.get(ele);
+			}
+
+		}
+		return this;
+	}
+
+	@Property
+	@Persist
+	String ReqD2RQ;
+
+	public Index onSubmitFromFormD2RQ() {
+		System.out.println("I am HERE " + ReqD2RQ);
+
+		if (ReqD2RQ != null) {
+			ResultSet f3 = RD2rq.send(ReqD2RQ);
+			results = ConvertToMap.getListFromResultSet(f3);// */
+
+			if (sujets != null)
+				sujets = null;
+
+			for (String ele : results.keySet()) {
+				if (sujets == null)
+					sujets = results.get(ele);
+			}
+
+		}
+		return this;
+	}
+
+	@Property
+	String head;
+
+	@Persist
+	@Property
+	Map<String, ArrayList<String>> results;
+
+	@Property
+	int indexRaw;
+
+	@Property
+	@Persist
+	ArrayList<String> sujets;
+
+	public String getCourantArrayValue() {
+		return results.get(head).get(indexRaw);
+	}
+
+	@Property
+	@Persist
+	String ReqHBASE;
+
+	@Property
+	@Persist
+	FamilyQualfierType typeHBASE;
+
+	public Index onSubmitFromFormHBASE() {
+		System.out
+				.println("I am HERE " + ReqHBASE + " " + typeHBASE.getValue());
+
+		if (ReqHBASE != null) {
+			String family = typeHBASE.getValue().split(":")[0];
+			String qualifier = typeHBASE.getValue().split(":")[1];
+
+			results = ConvertToMap.getMapFromList(
+					RHbaseGet.getLike(ReqHBASE, family, qualifier, "feature"),
+					"raw", "colmn family", "value");
+
+			if (sujets != null)
+				sujets = null;
+
+			for (String ele : results.keySet()) {
+				if (sujets == null)
+					sujets = results.get(ele);
+			}
+
+		}
+		return this;
+	}
+
+	
+	@Property
+	@Persist
+	String ReqHBASERaw;
+
+	public Index onSubmitFromFormHBASERaw() {
+		System.out
+				.println("I am HERE " + ReqHBASERaw );
+
+		if (ReqHBASE != null) {
+			
+			results = ConvertToMap.getMapFromList(
+					RHbaseGet.getRaw(ReqHBASERaw, "feature"),
+					"raw", "colmn family", "value");
+
+			if (sujets != null)
+				sujets = null;
+
+			for (String ele : results.keySet()) {
+				if (sujets == null)
+					sujets = results.get(ele);
+			}
+		}
+		return this;
+	}
+
 }

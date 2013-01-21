@@ -1,0 +1,10 @@
+gmin332/database/main/test.class
+gmin332/database/util/RD2rq.class
+gmin332/database/util/StatmetInter.class
+gmin332/database/ins/Region.class
+gmin332/database/util/HibernateUtils.class
+gmin332/database/ins/Departement.class
+gmin332/database/geonames/Feature.class
+gmin332/database/util/ApiCaller.class
+gmin332/database/main/RDFCreate.class
+gmin332/database/ins/Commune.class

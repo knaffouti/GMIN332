@@ -1,4 +1,4 @@
-description = "website application"
+description = "websemantique.website application"
 
 apply plugin: "war"
 apply plugin: "java"
@@ -7,7 +7,7 @@ apply plugin: "jetty"
 sourceCompatibility = "1.5"
 targetCompatibility = "1.5"
 
-group = "gmin332"
+group = "um2"
 version = "1.0-SNAPSHOT"
 
 repositories {
