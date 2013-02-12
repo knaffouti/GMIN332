@@ -1,3 +1,38 @@
 PRojet GMIN332 
             SKAY Reda
-			LAOUADI Rabah
+	    LAOUADI Rabah
+
+
+Compilation et excution de application JAVA (Site Web, Hibernate)
+
+
+
+
+            cd  DistrubutedRDF
+                     ->   mvn compile ( ça prendra de temps un peu, télécharger tous les libs de projet)
+
+
+                     ->   mvn install
+
+
+
+
+Créer la base 
+            cd databaseDef 
+              -> cd databaseDef / src / main / resources
+                  modifier le fichier resource rdfdatabase.cfg.xml
+                  et ajouter l'adress de la base de données
+
+              -> mvn liquid:update (permet la creation des tables)
+
+             
+
+
+Lancez le site Web
+              cd  website
+                         --> mvn jetty:run
+
+
+            
+
+            
