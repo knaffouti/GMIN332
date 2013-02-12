@@ -33,6 +33,10 @@ Lancez le site Web
                          --> mvn jetty:run
 
 
+
+LE Dossier SHELL
+ c'est des script shell qui permet de remplir la base ainsi mapping de 2rq (https://github.com/skaymohamedreda/GMIN332/blob/master/shell/d2rqfiles/map.ttl)
+
             
 
             
